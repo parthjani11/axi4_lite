@@ -1,0 +1,19 @@
+package axi_pkg;
+	import uvm_pkg::*;
+	`include "uvm_macros.svh"
+	`include "defines.svh"
+	//`include "axi_if.sv"
+	`include "axi_seq_item.sv"
+	`include "axi_config.sv"
+	`include "seqr.sv"
+	`include "driver.sv"
+	`include "monitor.sv"
+	`include "monitor_out.sv"
+	`include "axi_agent.sv"
+	`include "axi_passive_agent.sv"
+	`include "axi_seq.sv"
+	`include "axi_scoreboard.sv"
+	`include "axi_subscriber.sv"
+	`include "axi_env.sv"
+	`include "axi_test.sv"
+endpackage

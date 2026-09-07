@@ -1,0 +1,9 @@
+-e work/
+*.log
+*.mpf
+*.mti
+.*.swp
+*.ucdb
+*.qdb
+*.qpg
+*.qtl
