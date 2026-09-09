@@ -220,7 +220,7 @@ class axi_read_on_next_cycle_of_write extends axi_seq_item;
 		WVALID==1;
 	}
 	constraint read_valid{
-		((prev_wvalid && prev_awvalid) -> ((ARVALID==1)&&(ARADDR==prev_addr)));
+		(prev_wvalid && prev_awvalid) -> ((ARVALID==1) && (ARADDR==prev_addr));
 	}
 
 	function void post_randomize();
