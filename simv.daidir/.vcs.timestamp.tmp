@@ -620,8 +620,8 @@ axi_if.sv
 axi4_lite_slave.sv
 axi_pkg.sv
 axi_top.sv
-44
-XDG_SESSION_ID=86343
+41
+XDG_SESSION_ID=86558
 XDG_RUNTIME_DIR=/run/user/6916
 XDG_DATA_DIRS=/home/parthjani/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
 VMR_MODE_FLAG=64
@@ -638,9 +638,9 @@ VCS_ARG_ADDED_FOR_TMP=1
 VCS_ARCH=linux64
 UNAME=/bin/uname
 TOOL_HOME=/fetools/synopsys/installed_tools/vcs/vcs/Q-2020.03-SP2-8/linux64
-SSH_TTY=/dev/pts/425
-SSH_CONNECTION=106.219.125.144 27007 192.168.1.16 22
-SSH_CLIENT=106.219.125.144 27007 22
+SSH_TTY=/dev/pts/374
+SSH_CONNECTION=106.219.125.144 2057 192.168.1.16 22
+SSH_CLIENT=106.219.125.144 2057 22
 SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
 SPYGLASS_HOME=/fetools/synopsys/installed_tools/spyglass/S-2021.09-SP1/SPYGLASS_HOME
 SNPSLMD_QUEUE=true
@@ -654,13 +654,10 @@ QTDIR=/usr/lib64/qt-3.3
 Prime_HOME=/fetools/synopsys/installed_tools/primetime/prime/S-2021.06-SP2
 OVA_UUM=0
 OSTYPE=linux
-MTI_HOME=/tools/mentor/questasim/questasim/
-MGLS_HOME=/tools/mentor/questasim/questasim/linux/mgls
 LESSOPEN=||/usr/bin/lesspipe.sh %s
 LC_ALL=C
 ICC_HOME=/fetools/synopsys/installed_tools/icc2/Q-2019.12-SP1
 HOSTTYPE=x86_64-linux
-HOME_0IN=/tools/mentor/questacdc/linux
 HISTCONTROL=ignoredups
 GROUP=parthjani
 FORMALITY=/fetools/synopsys/installed_tools/Formality/fm/S-2021.06-SP2
@@ -676,7 +673,7 @@ DC_HOME=/fetools/synopsys/installed_tools/syn/S-2021.06-SP4
 1787830012 axi_agent.sv
 1787830012 monitor_out.sv
 1787830012 monitor.sv
-1787830012 driver.sv
+1789013726 driver.sv
 1787830012 seqr.sv
 1787830012 axi_config.sv
 1788947924 axi_seq_item.sv
